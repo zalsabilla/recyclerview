@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">kpopmajalah</string>
+
+    <string-array name="kpopmajalah_name">
+        <item>bigbang</item>
+        <item>blackpink</item>
+        <item>bts</item>
+        <item>exo</item>
+        <item>gfriend</item>
+        <item>redvelvet</item>
+        <item>rose</item>
+        <item>snsd</item>
+        <item>suju</item>
+        <item>twice</item>
+    </string-array>
+
+    <array name="kpopmajalah_image">]
+        <item>@drawable/bigbang</item>
+        <item>@drawable/blackpink</item>
+        <item>@drawable/bts</item>
+        <item>@drawable/exo</item>
+        <item>@drawable/gfriend</item>
+        <item>@drawable/redvelvet</item>
+        <item>@drawable/rose</item>
+        <item>@drawable/snsd</item>
+        <item>@drawable/suju</item>
+        <item>@drawable/twice</item>
+    </array>
+</resources>
